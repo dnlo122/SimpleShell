@@ -25,7 +25,3 @@ The shell also background execution using &. When a command ends with & it is ex
 
 The shell can find its own path and stores it in the environment variable SHELLPATH (run environ to see it).
 This allows the shell and any child processes to know the location of the shell.
-
-Name: Daniel Omoniyi
-Student number: 24396
-I, Daniel Omoniyi acknowledge DCU's academic integrity policy.
